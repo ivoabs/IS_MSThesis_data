@@ -1,1 +1,1 @@
-# Neutron Star Crust: effects of Rotation and Magnetic Fiels
+# Neutron Star Crust: Effects of Rotation and Magnetic Fields
